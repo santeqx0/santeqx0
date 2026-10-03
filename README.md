@@ -17,7 +17,7 @@
 
 ---
 
-## 👋 Hey, I'm Semih
+## 👋 Hey, I'm Sante
 
 I'm a developer who enjoys building projects, experimenting with new technologies and turning ideas into working projects.
 
